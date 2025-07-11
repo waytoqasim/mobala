@@ -1,0 +1,129 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js add react-export-table-to-excel
+
+PATH: 
+  C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Users\Omaid\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\TortoiseSVN\bin;C:\Program Files (x86)\VisualSVN\bin;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Microsoft Emulator Manager\1.0\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\130\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\ManagementStudio\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Yarn\bin\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files (x86)\Microsoft Visual Studio\Common\Tools\WinNT;C:\Program Files (x86)\Microsoft Visual Studio\Common\MSDev98\Bin;C:\Program Files (x86)\Microsoft Visual Studio\Common\Tools;C:\Program Files (x86)\Microsoft Visual Studio\VC98\bin;C:\Users\Omaid\AppData\Local\Microsoft\WindowsApps;C:\Users\Omaid\.dotnet\tools;C:\Users\Omaid\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Omaid\AppData\Local\GitHubDesktop\bin;C:\Users\Omaid\AppData\Local\Yarn\bin;C:\Users\Omaid\AppData\Local\Microsoft\WindowsApps;C:\Users\Omaid\.dotnet\tools;C:\Users\Omaid\AppData\Roaming\npm;
+
+Yarn version: 
+  1.22.4
+
+Node version: 
+  16.14.2
+
+Platform: 
+  win32 x64
+
+Trace: 
+  SyntaxError: C:\Users\Omaid\AppData\Local\Yarn\Cache\v6\npm-email-verificationtoken-0.0.3-7e3c4c2cb9d4fea5714c21344f2af07e6322331d-integrity\node_modules\email-verificationtoken\package.json: Unexpected token n in JSON at position 2
+      at JSON.parse (<anonymous>)
+      at C:\Program Files (x86)\Yarn\lib\cli.js:1625:59
+      at Generator.next (<anonymous>)
+      at step (C:\Program Files (x86)\Yarn\lib\cli.js:310:30)
+      at C:\Program Files (x86)\Yarn\lib\cli.js:321:13
+
+npm manifest: 
+  {
+    "name": "honey-money",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+      "@emailjs/browser": "^3.6.2",
+      "@emoji-mart/data": "^1.1.1",
+      "@emoji-mart/react": "^1.1.1",
+      "@hookform/resolvers": "^2.8.8",
+      "@react-pdf/renderer": "^2.3.0",
+      "@testing-library/jest-dom": "^5.16.2",
+      "@testing-library/react": "^12.1.3",
+      "@testing-library/user-event": "^13.5.0",
+      "axios": "^0.27.2",
+      "binary-reader": "^0.1.2",
+      "bootstrap": "^5.1.3",
+      "browser-image-compression": "^2.0.0",
+      "cdbreact": "^1.5.3",
+      "crypto": "^1.0.1",
+      "crypto-browserify": "^3.12.0",
+      "crypto-js": "^4.1.1",
+      "cryptr": "^6.0.3",
+      "email-verificationtoken": "^0.0.3",
+      "emoji-mart": "^5.4.0",
+      "emoji-picker-react": "^4.4.7",
+      "encrypt": "^0.0.1",
+      "encrypt-decrypt-library": "^1.0.5",
+      "file-saver": "^2.0.5",
+      "firebase": "^9.6.11",
+      "firebase-admin": "^11.0.1",
+      "firebase-functions": "^3.24.1",
+      "fs": "^0.0.1-security",
+      "html2canvas": "^1.4.1",
+      "image-to-base64": "^2.2.0",
+      "jquery": "^3.6.1",
+      "js-cookie": "^3.0.1",
+      "jspdf": "^2.5.1",
+      "mdb-react-ui-kit": "^2.4.0",
+      "mdbreact": "^5.2.0",
+      "moment": "^2.29.3",
+      "nodemailer": "^6.7.6",
+      "peerjs": "^1.4.7",
+      "prop-types": "^15.8.1",
+      "react": "^17.0.2",
+      "react-bootstrap": "^2.1.2",
+      "react-content-loader": "^6.2.0",
+      "react-currency-conv": "^1.1.0",
+      "react-current-location-address": "^1.0.0",
+      "react-datepicker": "^4.8.0",
+      "react-dom": "^17.0.2",
+      "react-encrypt": "^1.0.1",
+      "react-export-table-to-excel": "^1.0.6",
+      "react-geocode": "^0.2.3",
+      "react-idle-timer": "^5.4.0",
+      "react-image-crop": "^10.0.8",
+      "react-input-emoji": "^4.3.0",
+      "react-loading": "^2.0.3",
+      "react-meta-tags": "^1.0.1",
+      "react-native-viewport-units": "^0.0.5",
+      "react-number-format": "^4.9.3",
+      "react-router-dom": "^6.2.2",
+      "react-scripts": "5.0.0",
+      "react-timer-hook": "^3.0.5",
+      "react-to-pdf": "^0.0.14",
+      "reactjs-popup": "^2.0.5",
+      "sheetjs-style": "^0.15.8",
+      "stream": "^0.0.2",
+      "twilio": "^3.81.0",
+      "uuid": "^9.0.0",
+      "web-vitals": "^2.1.4",
+      "xhr2-cookies": "^0.9.1",
+      "yup": "^0.32.11",
+      "zlib": "^1.0.5"
+    },
+    "scripts": {
+      "start": "react-scripts start",
+      "build": "react-scripts build",
+      "test": "react-scripts test",
+      "eject": "react-scripts eject"
+    },
+    "eslintConfig": {
+      "extends": [
+        "react-app",
+        "react-app/jest"
+      ]
+    },
+    "browserslist": {
+      "production": [
+        ">0.2%",
+        "not dead",
+        "not op_mini all"
+      ],
+      "development": [
+        "last 1 chrome version",
+        "last 1 firefox version",
+        "last 1 safari version"
+      ]
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

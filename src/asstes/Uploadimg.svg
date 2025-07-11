@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="97" height="125" viewBox="0 0 97 125">
+  <g id="Group_148" data-name="Group 148" transform="translate(-1056 -1415)">
+    <g id="Rectangle_98" data-name="Rectangle 98" transform="translate(1056 1415)" fill="none" stroke="#2995be" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+      <rect width="97" height="125" rx="5" stroke="none"/>
+      <rect x="2" y="2" width="93" height="121" rx="3" fill="none"/>
+    </g>
+    <g id="Icon_ionic-ios-add-circle-outline" data-name="Icon ionic-ios-add-circle-outline" transform="translate(1087.012 1460.012)">
+      <path id="Path_3" data-name="Path 3" d="M26.53,17.871H20.473V11.813a1.3,1.3,0,1,0-2.6,0v6.058H11.813a1.246,1.246,0,0,0-1.3,1.3,1.259,1.259,0,0,0,1.3,1.3h6.058V26.53a1.26,1.26,0,0,0,1.3,1.3,1.294,1.294,0,0,0,1.3-1.3V20.473H26.53a1.3,1.3,0,1,0,0-2.6Z" transform="translate(-1.523 -1.523)" fill="#2995be" stroke="#2995be" stroke-width="1"/>
+      <path id="Path_4" data-name="Path 4" d="M21.024,5.751a15.267,15.267,0,1,1-10.8,4.472,15.172,15.172,0,0,1,10.8-4.472m0-2.376A17.649,17.649,0,1,0,38.673,21.024,17.646,17.646,0,0,0,21.024,3.375Z" transform="translate(-3.375 -3.375)" fill="#2995be" stroke="#2995be" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

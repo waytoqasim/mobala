@@ -1,0 +1,24 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+/.vs
+/MobalaFX/.vs
+/MobalaFX/MobalaFX/obj
+/MobalaFX/MobalaFX/bin
+/MobalaFX/MobalaFX/bin/Debug
+/MobalaFX/MobalaFX/
+*.dll
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore

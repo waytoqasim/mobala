@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21.106" height="21.106" viewBox="0 0 21.106 21.106">
+  <rect width="21.106" height="21.106" fill="#ffffff" rx="3"/> <!-- white background with rounded corners -->
+  <path id="Icon_material-info-outline" data-name="Icon material-info-outline" fill='#007bff' d="M12.5,18.83h2.111V12.5H12.5ZM13.553,3A10.553,10.553,0,1,0,24.106,13.553,10.557,10.557,0,0,0,13.553,3Zm0,19A8.443,8.443,0,1,1,22,13.553,8.454,8.454,0,0,1,13.553,22ZM12.5,10.387h2.111V8.277H12.5Z" transform="translate(-3 -3)"/>
+  <!-- <text x="12.553" y="14.553" fill="#2995be" font-size="12" font-family="Arial" text-anchor="middle">i</text> blue "i" text -->
+</svg>
